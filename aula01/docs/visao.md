@@ -1,5 +1,5 @@
 # Documento de Visão
-## Sistema de Gestão de Empréstimo de Equipamentos — UFRA Paragominas
+## Sistema de Gestão de Empréstimo de Equipamentos — UFRA São Miguel
 
 **Versão:** 1.0
 **Data:** Março de 2025
@@ -11,7 +11,7 @@
 
 ### 1.1 Propósito
 
-Este documento descreve a visão geral do Sistema de Gestão de Empréstimo de Equipamentos da UFRA Paragominas. Seu objetivo é estabelecer os problemas que o sistema resolve, os envolvidos, as necessidades identificadas e as principais funcionalidades esperadas.
+Este documento descreve a visão geral do Sistema de Gestão de Empréstimo de Equipamentos da UFRA São Miguel. Seu objetivo é estabelecer os problemas que o sistema resolve, os envolvidos, as necessidades identificadas e as principais funcionalidades esperadas.
 
 ### 1.2 Escopo
 

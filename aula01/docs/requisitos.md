@@ -1,5 +1,5 @@
 # Documento de Requisitos
-## Sistema de Gestão de Empréstimo de Equipamentos — UFRA Paragominas
+## Sistema de Gestão de Empréstimo de Equipamentos — UFRA São Miguel
 
 **Versão:** 1.0
 **Data:** Março de 2025
