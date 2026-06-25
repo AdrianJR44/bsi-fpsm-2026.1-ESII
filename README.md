@@ -24,8 +24,8 @@ A jornada passa por **dívida técnica, princípios SOLID, testes, padrões de p
 | 1 | Qualidade de Software e Dívida Técnica | [📂 **aula01**](aula01/) |
 | 2 | Arquitetura, ADR, UML e Princípios de Projeto | [📂 **aula02**](aula02/) |
 | 3 | Diagramas, Dataclasses e SRP | [📂 **aula03**](aula03/) |
-| 4 | OCP — Aberto/Fechado | 🔒 *em breve* |
-| 5 | LSP, ISP e DIP | 🔒 *em breve* |
+| 4 | OCP — Aberto/Fechado | [📂 **aula04**](aula04/) |
+| 5 | LSP, ISP e DIP | [📂 **aula05**](aula05/) |
 | **6** | **Prova escrita 1** | — |
 | 7 | Testes de Unidade, Integração e Cobertura | 🔒 *em breve* |
 | 8 | TDD — Desenvolvimento Guiado por Testes | 🔒 *em breve* |
