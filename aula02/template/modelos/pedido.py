@@ -11,10 +11,9 @@ class Pedido:
     itens: list[Item] = field(default_factory=list)
     fechado: bool = False
 
-    def adicionar(self, item: Item) -> None:
+     def adicionar(self, item: Item) -> None:
         # TODO: acrescentar o item à lista self.itens
-        ...
-
+        self.itens.append(item)
     def total(self) -> float:
         # TODO: somar o subtotal() de cada item
-        ...
+        return sum(i.subtotal() for i in self.itens)
